@@ -3,6 +3,6 @@
      
 This homework assignment is a professional portfolio/snapshot of me. It highlights some of my past work uploaded to Github, gives insight to who I am and will be; as well as some of the coding skills I've picked up thus far. I used media queries, CSS variables, and more. There was no scratch code, so I literally built it from the ground up. This was fun and I will definitely update it over time. 
 
-http://127.0.0.1:5503/index.html
+https://whit1jl.github.io/Portfolio/
 
 # Created by Jessica White
